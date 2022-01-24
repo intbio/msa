@@ -498,7 +498,8 @@ Environment
 ------------
 ```conda create --name msa
 activate source msa
-conda install -c conda-forge nodejs=11.11```
+conda install -c conda-forge nodejs=11.11
+```
 
 Step 1) Setting up
 -----------------
